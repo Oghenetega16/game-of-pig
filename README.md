@@ -1,4 +1,5 @@
 Game of Pig Rules
+
 There are two players. each player takes turns rolling a pair of dice.
 The total of the current player's roll is added to their score, unless either die comes up as a "one".
 If this happens, this player's turn is over, and it becomes the other player's turn.
